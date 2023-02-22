@@ -3,15 +3,11 @@
 </p>
 <h1>osTicket - LifeCycle Examples Setup</h1>
 </p>
-This tutorial demonstrates the creation of tickets as an end user .<br />
-
+This tutorial covers the process of creating tickets in osTicket as an end user. For example, if Ken is experiencing an issue with mobile banking, he can create a ticket and select the appropriate help topic, such as "Business Critical Outage," to indicate the urgency and importance of the request. This will help ensure that the ticket is prioritized appropriately and that agents are able to respond quickly and effectively to resolve the issue. 
 </p>
+By following this tutorial, end users can gain a better understanding of how to create tickets in osTicket and improve the overall efficiency and effectiveness of their interactions with the help desk.
 </p>
-</p>
-<p>
-Ken is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking. 
-</p>
-<img src="https://i.imgur.com/lRduIb2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ufKdsTQ.png" height="70%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
